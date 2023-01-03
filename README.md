@@ -3,4 +3,5 @@
 <hr>
 <ul>
     <li> Estudante de Programação pelo CursoEmVideo</li>
+    <li> Futuro Front-end</li>
 </ul>
